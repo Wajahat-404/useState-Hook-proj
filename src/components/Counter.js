@@ -12,7 +12,7 @@ const Counter = () => {
   }
   let dec = () => {
     if (num < 1) {
-      alert("Sorry! You can't go down the '0'.");
+      alert("Sorry, can't go down the '0'");
     }
     else {
       setNum(num -1);
