@@ -1,14 +1,13 @@
 import './App.css';
-import Props from './components/Props';
+import React from 'react';
+import UseEffectHook from './components/UseEffectHook';
 
 
 function App() {
   return (
     <div className='App'>
-      {/*1) <Counter /> */}
-      {/* ------------------------------- */}
-      {/*2) REACT PROPS */}
-      <Props/>
+      <UseEffectHook />
+      <h2>Wajaht is here!</h2>
     </div>
   );
 }

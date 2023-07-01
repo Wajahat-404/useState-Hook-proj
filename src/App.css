@@ -1,11 +1,13 @@
-:root {
+ /* :root {
   --main-padding: .5rem;
   --main-margin: 5px;
   --pri-border: 1px solid #333;
   --pri-border-radius: 5px;
-  /* --pri-width: 0.8rem;
-  --sec-width: 0.5rem; */
-}
+  --pri-width: 0.8rem;
+  --sec-width: 0.5rem;
+}  */
+
+/*
 .primary {
   padding: var(--main-padding);
   margin: var(--main-margin);
@@ -37,7 +39,7 @@
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #0000ff;
-}
+} */
 .App {
   display: flex;
   margin-top: 5rem;
